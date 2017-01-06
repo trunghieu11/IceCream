@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/MMK Community/Scenes/MainMenu.unity
+- path: Assets/MMK Community/Scenes/Map.unity
   isLoaded: 1
   isActive: 1
